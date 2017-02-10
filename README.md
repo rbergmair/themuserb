@@ -1,4 +1,4 @@
-# `themuserb`: RB's Submission to the Recruitment Execise by "The Muse"
+# RB's Submission to the Recruitment Execise by "The Muse"
 
 
 ## Prerequisites
